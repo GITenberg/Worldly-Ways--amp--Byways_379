@@ -1,6 +1,9 @@
 _repo: Worldly-Ways--amp--Byways_379
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Worldly Ways and Byways
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gregory, Eliot
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '178'
     url: http://www.gutenberg.org/2009/agents/178
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/379#Worldly-Ways--amp--Byways
 gutenberg_issued: '1995-12-01'
 gutenberg_type: Text
 identifiers:
